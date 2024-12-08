@@ -1,0 +1,10 @@
+﻿{
+    "Name": "WFCFarmGenerator",
+    "Author": "Stancu Vlad-Andrei",
+    "Version": "1.0.0",
+    "Description": "This mod generates custom farm layouts using the Wave Function Collapse algorithm.",
+    "UniqueID": "Stancu-Vlad-Andrei.WFCFarmGenerator",
+    "EntryDll": "WFCFarmGenerator.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
